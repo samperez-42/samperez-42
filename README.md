@@ -9,6 +9,8 @@
 [![Libft](imgs/libftm.png)](https://github.com/samperez-42/42-cursus/tree/main/libft)
 [![Born2beroot](imgs/born2berootm.png)](https://github.com/gemartin99/Born2beroot-Tutorial)
 [![Ft_printf](imgs/ft_printfn.png)](https://github.com/samperez-42/42-cursus/tree/main/ft_printf)
+[![Get Next Line(get_next_linee.png)](https://github.com/samperez-42/42-cursus/tree/main/get_next_line)]
+[![Push_Swap(imgs/push_swape.png)](https://github.com/samperez-42/push_swap)]
 
 👨‍💻 All of my projects are available [here](https://github.com/samperez-42/42-cursus)
 
