@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-perez-santiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-perez-santiago/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-perez-santiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-perez-santiago/" height="30" width="40" /></a>
 <a href="https://instagram.com/samuu_ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuu_ps" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,4 @@
 
 ## My goals
 - [x] [Technician in Microcomputer Systems and Networks](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html)  
-- [ ] [Advanced Technician in Cross-Platform Application Development](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)  
+- [ ] [Junior CiberSecurity Analist Career Path](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)  
